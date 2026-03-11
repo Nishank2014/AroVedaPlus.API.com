@@ -13,5 +13,5 @@ spring:
     show-sql: true
 
 jwt:
-  secret: mySecretKey123456
+  secret: mySecretKey12345674
   expiration: 3600000
